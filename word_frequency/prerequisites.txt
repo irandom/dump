@@ -1,0 +1,4 @@
+1. spacy
+  * https://spacy.io/usage
+  * https://spacy.io/models/pt#pt_core_news_lg-labels
+  * https://spacy.io/usage/linguistic-features
